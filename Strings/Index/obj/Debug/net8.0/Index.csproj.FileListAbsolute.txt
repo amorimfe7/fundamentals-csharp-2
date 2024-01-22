@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\Index\bin\Debug\net8.0\Index.exe
+C:\Projetos\fundamentals-csharp-2\Strings\Index\bin\Debug\net8.0\Index.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\Index\bin\Debug\net8.0\Index.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\Index\bin\Debug\net8.0\Index.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Index\bin\Debug\net8.0\Index.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\refint\Index.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\Index.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Index\obj\Debug\net8.0\ref\Index.dll

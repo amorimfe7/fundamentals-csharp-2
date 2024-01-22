@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\bin\Debug\net8.0\Strings.exe
+C:\Projetos\fundamentals-csharp-2\Strings\bin\Debug\net8.0\Strings.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\bin\Debug\net8.0\Strings.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\bin\Debug\net8.0\Strings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\bin\Debug\net8.0\Strings.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\refint\Strings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\Strings.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\obj\Debug\net8.0\ref\Strings.dll

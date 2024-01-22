@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\bin\Debug\net8.0\MetodosAdicionais.exe
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\bin\Debug\net8.0\MetodosAdicionais.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\bin\Debug\net8.0\MetodosAdicionais.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\bin\Debug\net8.0\MetodosAdicionais.dll
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\bin\Debug\net8.0\MetodosAdicionais.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.dll
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\refint\MetodosAdicionais.dll
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\MetodosAdicionais.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\MetodosAdicionais\obj\Debug\net8.0\ref\MetodosAdicionais.dll

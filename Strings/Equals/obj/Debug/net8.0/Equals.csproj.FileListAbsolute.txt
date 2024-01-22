@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\bin\Debug\net8.0\Equals.exe
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\bin\Debug\net8.0\Equals.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\bin\Debug\net8.0\Equals.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\bin\Debug\net8.0\Equals.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\bin\Debug\net8.0\Equals.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\refint\Equals.dll
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\Equals.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\Equals\obj\Debug\net8.0\ref\Equals.dll

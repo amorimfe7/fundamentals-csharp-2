@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\bin\Debug\net8.0\StartEndWith.exe
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\bin\Debug\net8.0\StartEndWith.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\bin\Debug\net8.0\StartEndWith.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\bin\Debug\net8.0\StartEndWith.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\bin\Debug\net8.0\StartEndWith.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\refint\StartEndWith.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\StartEndWith.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StartEndWith\obj\Debug\net8.0\ref\StartEndWith.dll

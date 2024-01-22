@@ -1,4 +1,4 @@
-﻿namespace MyApp{
+﻿namespace Guids{
     class Program{
         static void Main(string[] args){
             // var id = Guid.NewGuid(); //gerar um novo GUID

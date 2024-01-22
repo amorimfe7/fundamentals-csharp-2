@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\bin\Debug\net8.0\ComparaString.exe
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\bin\Debug\net8.0\ComparaString.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\bin\Debug\net8.0\ComparaString.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\bin\Debug\net8.0\ComparaString.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\bin\Debug\net8.0\ComparaString.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\refint\ComparaString.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ComparaString.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ComparaString\obj\Debug\net8.0\ref\ComparaString.dll

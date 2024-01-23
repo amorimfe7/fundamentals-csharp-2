@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\bin\Debug\net8.0\StringBuilder0.exe
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\bin\Debug\net8.0\StringBuilder0.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\bin\Debug\net8.0\StringBuilder0.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\bin\Debug\net8.0\StringBuilder0.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\bin\Debug\net8.0\StringBuilder0.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\refint\StringBuilder0.dll
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\StringBuilder0.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\StringBuilder0\obj\Debug\net8.0\ref\StringBuilder0.dll

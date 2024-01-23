@@ -1,0 +1,15 @@
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.AssemblyInfoInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.AssemblyInfo.cs
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.csproj.CoreCompileInputs.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.sourcelink.json
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.exe
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.deps.json
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.runtimeconfig.json
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\bin\Debug\net8.0\ManipulandoStrings.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\refint\ManipulandoStrings.dll
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.pdb
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ManipulandoStrings.genruntimeconfig.cache
+C:\Projetos\fundamentals-csharp-2\Strings\ManipulandoStrings\obj\Debug\net8.0\ref\ManipulandoStrings.dll
